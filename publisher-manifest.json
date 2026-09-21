@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a6b43100eab1a1ca570e2c9c",
+  "owner": "wdykarp",
+  "repo": "page-61e3380f29a5848ecc5232b1",
+  "title": "涡轮社区",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "61e3380f29a5848ecc5232b1",
+      "a": "涡轮社区",
+      "b": "2027最新官网",
+      "entity": "涡轮社区",
+      "brand": "涡轮社区",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "883d8ad8cd54cd073fa043780b23c1dea888427cc1959ea1ad4a27991fd2616e",
+      "content": {
+        "primary_entity": "涡轮社区",
+        "keyword1": "涡轮社区",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按系统挑选客户端：Windows、macOS、iOS、Android 与路由器各有适配版本，订阅配置方式一致。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "从套餐对比开始，按设备数量与流量需求选一个版本。",
+          "AI_CLOSING_TITLE": "选一个适合的版本",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档订阅，月付价格分别为 ¥15、¥35 与 ¥85，按年付可节省两个月费用。旗舰版每月 300GB 流量并支持 5 台设备，覆盖流媒体与 IPLC 游戏专线；团队版每月 1000GB 流量，可支持 20 台设备同时在线。",
+          "AI_FEATURES_INTRO": "选购涡轮社区时，从流量、设备数量和线路类型三个角度对照套餐即可快速缩小范围。",
+          "AI_FEATURES_TITLE": "选购参考维度",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量适合单人或双人日常使用，旗舰版每月 300GB 能满足多设备家庭，团队版每月 1000GB 适合小团队协作。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台设备、旗舰版 5 台设备、团队版 20 台设备，先统计常用手机、电脑与平板数量再下单更稳妥。",
+          "AI_FEATURE_TEXT_3": "年付方案为基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用者可优先考虑按年订阅。",
+          "AI_FEATURE_TITLE_1": "按流量档位选择",
+          "AI_FEATURE_TITLE_2": "按在线设备数选择",
+          "AI_FEATURE_TITLE_3": "按月付或年付选择",
+          "AI_GUIDE_INTRO": "选定套餐后，安装客户端并导入订阅即可开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "涡轮社区提供基础版、旗舰版与团队版三档海外加速订阅，覆盖个人到小团队的设备规模。选择时对照每月流量、同时在线设备数量与线路类型，再决定月付或年付即可。",
+          "AI_HERO_SUBTITLE": "三档订阅对照选择",
+          "AI_HIGHLIGHT_1": "基础版月付 ¥15",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 游戏专线",
+          "AI_HIGHLIGHT_3": "团队版 20 台设备在线",
+          "AI_PLANS_INTRO": "基础版以每月 100GB 流量和 3 台设备起步，旗舰版升级到每月 300GB 流量、5 台设备与 IPLC 专线，团队版每月 1000GB 流量并支持 20 台设备。三档均可按年付费，年付价格分别为 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "确认常用设备数量与每月大概流量，对照基础版、旗舰版或团队版的档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐对系统版本和客户端类型的要求，确认手头设备可以安装对应客户端。",
+          "AI_STEP_TEXT_3": "在对应客户端中按配置文档导入订阅信息，完成后即可连接使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "涡轮社区订阅选择",
+          "AI_FAQ_ANSWER_1": "先看设备数量与月流量。单人手机加电脑，基础版 3 台设备、100GB 流量通常够用；家中多台设备或常看高清流媒体，可考虑旗舰版。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。设备数量按同时连接计算，超出后需断开其他设备再连。",
+          "AI_FAQ_ANSWER_3": "可以，年付比月付更划算。基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用建议一次付清年费。",
+          "AI_FAQ_ANSWER_4": "基础版提供普通线路节点池，旗舰版带 IPLC 专线并针对游戏加速优化，团队版有 VIP 专属高带宽节点。按延迟要求挑选即可。",
+          "AI_FAQ_ANSWER_5": "先在客户端软件中获取订阅地址，粘贴到对应客户端的订阅导入栏，保存后更新节点列表，再选择线路连接。具体步骤以所用客户端文档为准。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "初次使用涡轮社区，选哪个套餐合适？",
+          "AI_FAQ_QUESTION_2": "套餐里的设备数量限制怎么计算？",
+          "AI_FAQ_QUESTION_3": "支持按年付款吗？价格有优惠吗？",
+          "AI_FAQ_QUESTION_4": "不同套餐的线路节点有什么区别？",
+          "AI_FAQ_QUESTION_5": "订阅在客户端里怎么导入和更新？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "akeol.cn",
+    "host": "akeol.cn"
+  },
+  "file_hashes": {
+    "index.html": "2106dad211766cf8628f26d1d87dcc47b9efedf581696a475a1b694ff3ba52d2",
+    "sitemap.xml": "1eade05e9c499aa0f57c1b6233c4b78726c47109b7ee981d986c6fdb7267f982",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "0f8a811cfd9a99690f8a04c28e852d3d270f24c8f166b510a585d7de19b59eb3",
+    "robots.txt": "47bf5876ac5d9fef7962b2b1473465ab2fb666e55550ae927ce4513db4065217",
+    "47de9ad1a84793073441d4ceab288c96.txt": "eddff6dd179d1b052253176af4f85444678984213dcdeedcf09a889f1f840061"
+  },
+  "revision": "8c681a18a505224d379a453e7492764564aafb63e5628715155d60545409c73e"
+}
